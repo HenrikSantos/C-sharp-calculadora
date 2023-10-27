@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora-tests\\C-sharp-calculadora.Tests.csproj": {}
+  },
+  "projects": {
+    "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora-tests\\C-sharp-calculadora.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora-tests\\C-sharp-calculadora.Tests.csproj",
+        "projectName": "C-sharp-calculadora.Tests",
+        "projectPath": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora-tests\\C-sharp-calculadora.Tests.csproj",
+        "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
+        "outputPath": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora-tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora\\C-sharp-calculadora.csproj": {
+                "projectPath": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora\\C-sharp-calculadora.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora\\C-sharp-calculadora.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora\\C-sharp-calculadora.csproj",
+        "projectName": "C-sharp-calculadora",
+        "projectPath": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora\\C-sharp-calculadora.csproj",
+        "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
+        "outputPath": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

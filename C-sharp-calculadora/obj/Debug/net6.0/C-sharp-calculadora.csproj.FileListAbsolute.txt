@@ -1,0 +1,14 @@
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\bin\Debug\net6.0\C-sharp-calculadora.exe
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\bin\Debug\net6.0\C-sharp-calculadora.deps.json
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\bin\Debug\net6.0\C-sharp-calculadora.runtimeconfig.json
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\bin\Debug\net6.0\C-sharp-calculadora.dll
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\bin\Debug\net6.0\C-sharp-calculadora.pdb
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\obj\Debug\net6.0\C-sharp-calculadora.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\obj\Debug\net6.0\C-sharp-calculadora.AssemblyInfoInputs.cache
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\obj\Debug\net6.0\C-sharp-calculadora.AssemblyInfo.cs
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\obj\Debug\net6.0\C-sharp-calculadora.csproj.CoreCompileInputs.cache
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\obj\Debug\net6.0\C-sharp-calculadora.dll
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\obj\Debug\net6.0\refint\C-sharp-calculadora.dll
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\obj\Debug\net6.0\C-sharp-calculadora.pdb
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\obj\Debug\net6.0\C-sharp-calculadora.genruntimeconfig.cache
+H:\Documentos\GitHub\C#\C-sharp-calculadora\C-sharp-calculadora\obj\Debug\net6.0\ref\C-sharp-calculadora.dll

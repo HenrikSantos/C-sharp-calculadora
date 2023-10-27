@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora-tests\\C-sharp-calculadora-tests.csproj": {}
+  },
+  "projects": {
+    "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora-tests\\C-sharp-calculadora-tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora-tests\\C-sharp-calculadora-tests.csproj",
+        "projectName": "C-sharp-calculadora-tests",
+        "projectPath": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora-tests\\C-sharp-calculadora-tests.csproj",
+        "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
+        "outputPath": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora-tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora\\C-sharp-calculadora.csproj": {
+                "projectPath": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora\\C-sharp-calculadora.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora\\C-sharp-calculadora.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora\\C-sharp-calculadora.csproj",
+        "projectName": "C-sharp-calculadora",
+        "projectPath": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora\\C-sharp-calculadora.csproj",
+        "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
+        "outputPath": "H:\\Documentos\\GitHub\\C#\\C-sharp-calculadora\\C-sharp-calculadora\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\henri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
